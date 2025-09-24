@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HolaMundo2</string>
+    <string name="title_activity_ejercicio12">Ejercicio1Activity2</string>
+    <string name="title_activity_ejercicio23">Ejercicio2Activity3</string>
+    <string name="title_activity_ejercicio34">Ejercicio3Activity4</string>
+    <string name="title_activity_ejercicio45">Ejercicio4Activity5</string>
+    <string name="title_activity_ejercicio56">Ejercicio5Activity6</string>
+    <string name="title_activity_ejercicio67">Ejercicio6Activity7</string>
+    <string name="title_activity_ejercicio78">Ejercicio7Activity8</string>
+    <string name="title_activity_ejercicio89">Ejercicio8Activity9</string>
+</resources>
